@@ -21,3 +21,6 @@ of America.
 
 Ponete en contacto en [Twitter](https://twitter.com/SantoTrade). 
 Mira mi certificacion [AWS](http://santiagog.com/certificate)
+
+
+ESTO ES NUEVO TEXTO DE LINUX ACADEMY
